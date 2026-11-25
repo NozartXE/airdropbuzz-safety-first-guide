@@ -1,65 +1,141 @@
 # A Safety-First Workflow for Tracking Airdrops in 2026
 
-> **Disclosure:** This article is an entry to the [AirdropBuzz Creator Campaign](https://airdropbuzz.com/creator-campaign) (prize pool $625 USDC for the top 10 entries; deadline 26 December 2026, 11:59 PM IST). It is not a partnership with AirdropBuzz, it is not financial advice, and nothing in it guarantees that any airdrop will pay out — most never do. Every fact about the site below was taken from airdropbuzz.com on **25 November 2026**, and the numbers will have moved by the time you read this.
+**The highest-scored airdrop on the board today is one I am telling you not to farm — and the reason has nothing to do with the project.** It is what the score cannot see: your budget, the campaign's phase, and whether its reward is confirmed or still a rumour. Here is the workflow I use to see those things, every number checked live today.
 
-## The problem: a list is not a strategy
+> **Status update — 25 November 2026:** A living page; official project pages and guides checked **25 November 2026**. Since v1: NEAR@3.33 moved into live allocations, Denshin's cutoff is five days away, Startale's missions end today. Scores/deadlines below are as recorded that day.
 
-Open any airdrop feed and you will find the same shape repeated hundreds of times: a project name, a points program, a deadline that may or may not be real, and a "connect wallet" button. The feed rewards speed. Click first, read later, hope the claim page is genuine.
+> **Disclosure:** An entry to the [AirdropBuzz Creator Campaign](https://airdropbuzz.com/creator-campaign) ($625 USDC for the top 10; deadline 26 December 2026, 11:59 PM IST). Not a partnership with AirdropBuzz, not financial advice, and nothing here guarantees any airdrop will pay out — most never do. Where AirdropBuzz may earn referral benefit from links, its guides say so, and so do I.
 
-That order is exactly backwards, and it is expensive in two currencies. The obvious one is money: fake claim sites, unlimited approvals and forced deposits are the standard drainer playbook, and they work because the victim was in a hurry. The quieter currency is time: hours spent farming a campaign whose window quietly closed, whose rules changed, or whose "reward" was never more than unconfirmed points.
+**Contents:** [Verdict](#the-60-second-verdict) · [Q1](#question-1-what-do-i-have-to-do) · [AlloX](#deep-dive-allox-the-88100-i-am-not-farming) · [Shortlist](#the-shortlist-compared) · [Checklist](#the-five-gate-decision-checklist) · [Q2](#question-2-what-changed) · [Q3](#question-3-what-are-the-risks-the-four-layer-safety-stack) · [FAQ](#faq)
 
-So before I track anything in 2026, I run it through a workflow built around three questions, in this order:
+## The 60-second verdict
 
-1. **What exactly do I have to do — and what will it cost?**
-2. **What has changed since the guide I read was written?**
-3. **What are the risks before I connect a wallet?**
+| If you read one box | My call |
+|---|---|
+| Best free route now | **Amadeus** — free check-in and community tasks only |
+| Highest score, wrong for most budgets | **AlloX (88/100)** — its points track rewards real portfolio capital |
+| Already distributing | **NEAR@3.33 (88/100)** — allocations live for past participants |
 
-I use [AirdropBuzz](https://airdropbuzz.com/) for this because its pages are structured around those questions rather than around hype. As of 25 November 2026 the homepage reports 162 public guides, 118 live campaigns, 103 guides updated in the previous 30 days and 33 guides source-checked in the previous seven days. Those are editorial activity numbers, not a quality guarantee — but they tell me the archive is maintained, which is the first thing I want to know about any source I rely on.
+## Question 1: What do I have to do?
 
-## Question 1: What do I have to do? Reading a guide properly
+Every airdrop feed has the same shape: a project name, a points program, a deadline that may not be real, and a "connect wallet" button. The feed rewards speed — click first, read later — and that order is expensive in money (fake claim sites are the standard drainer playbook) and in time (hours farmed into a closed campaign).
 
-An AirdropBuzz guide is not a blog post with steps sprinkled in. Each one leads with the decision-making facts: a **Potential Score out of 100**, the campaign status, the participation cost, the participation deadline, the reward context, and a "last verified" date. Below that sits a TL;DR requirements box, the step list, a risks section, an FAQ, and an automated set of guide checks (things like whether the claim link uses HTTPS and whether a docs link exists). The site is also upfront that guides may contain referral links from which AirdropBuzz may benefit, and that the checks inspect the guide's content — they are not a security audit of the project.
+So I run every campaign through three questions: **(1) What do I have to do — and what will it cost? (2) What has changed since the guide was written? (3) What are the risks before I connect a wallet?** I use [AirdropBuzz](https://airdropbuzz.com/) because its pages are built around them: **162 public guides**, **118 live campaigns** (25 November 2026), and each guide leads with a **Potential Score out of 100**, status, cost, deadline, reward context and a "last verified" date, then requirements, steps, risks, an FAQ and automated guide checks — which inspect the guide's content, not the project's security.
 
-Take the guide I worked through for this article: [Amadeus Protocol](https://airdropbuzz.com/airdrop/amadeus-protocol-airdrop), scored **86/100**, last verified 20 November 2026. Read properly, it tells a more complicated — and more useful — story than "farm this." The current phase is called Road to TGE. The Season 1 earning window and its final points-claim window are *closed* (the earning cutoff was 31 October 2026), and the guide says so plainly instead of letting latecomers repeat expired quests. What is still live is modest: a daily check-in currently showing 25 points, weekly points that must be claimed within seven days of posting, and free community tasks. Trading quests exist but are explicitly optional, carry fees and loss risk, and the guide warns against manufacturing volume. Most importantly, the reward context reads "points program; token rewards unconfirmed," and the rules summary states there is no guaranteed allocation and no fixed points-to-token conversion rate.
+Worked example: [Amadeus Protocol](https://airdropbuzz.com/airdrop/amadeus-protocol-airdrop), **86/100**, verified 20 November 2026. Its own site (ama.one) reports 355.3M transactions and 66,000 agents — project-reported context, not proof of a reward. The guide's real story: current phase Road to TGE; Season 1's earning window **closed 31 October 2026** (final claim window 8 November), labelled as history. Still live: a **25-point** daily check-in, weekly points claimable within seven days, free community tasks, a 22 November agent-VM migration notice. Trading quests are optional, carry fees and loss risk; the guide warns against manufacturing volume. Reward context: "points program; token rewards unconfirmed." My call: free route yes, trading route no.
 
-That is what a good guide does: it lets you say no, or say "only the free parts," before you have spent anything. My decision on Amadeus, from the guide alone: the free check-in route is a reasonable low-effort track; the trading route is not justified by an unconfirmed points program.
+## Deep dive: AlloX, the 88/100 I am not farming
 
-## Question 2: What changed? Updates and Market Pulse
+AlloX is the workflow's hardest test: almost everything about it is genuinely confirmed — and it is still a no for a small budget. Facts are from the [AlloX guide](https://airdropbuzz.com/airdrop/allox-airdrop-guide) (official sources checked 29 October 2026; status updated 20 November) and AlloX's tokenomics/sale pages as recorded there.
 
-Airdrop rules are moving targets, and a guide is a snapshot. AirdropBuzz handles this with a dedicated [Airdrop Updates](https://airdropbuzz.com/airdrop-updates) change log — 144 updated guides at the time of writing — where each entry records the date, what changed, and the reasoning, with a link back to the revised guide. The entries from the last few days show why this page matters more than the original guide:
+**Hard facts — AlloX**
 
-- **AllScale (25 Nov):** TRON support and a 48-hour passkey-replacement hold were added; the note stresses that no token claim or conversion is confirmed, and the score stays at 62/100.
-- **Kaisar (24 Nov):** the Potential Score was *revised upward*, 54 → 64/100, after its beta launch — with vKAI conversion, TGE and payouts still explicitly unverified.
-- **My Age (24 Nov):** the AGE distribution and planned TON listing were rescheduled to 18 December 2026, replacing the November dates a farmer might still be working toward.
-- **Teneo Season 4 (23 Nov):** marked **closed to new entry** — exactly the kind of change that turns a weekend of farming into wasted effort if you miss it.
+| Field | Confirmed | Still TBA |
+|---|---|---|
+| Token | $ALLOX, not yet live; supply 1,000,000,000 | Official contract address |
+| Community allocation | **35% of supply** | Individual allocation terms |
+| TGE unlock & vesting | **5% of the community tranche** unlocks at TGE = 17.5M tokens = 1.75% of supply; vesting schedules apply — eligibility ≠ full day-one unlock | Exact TGE date (targeted Q4 2026); per-user unlock timing |
+| Points conversion | Every Point converts into $ALLOX at launch | The conversion **rate** |
 
-The second half of "what changed" is market context, and that is [Market Pulse](https://airdropbuzz.com/crypto-market-pulse). It is a rule-based dashboard — Binance spot data, support and resistance levels, momentum reads — refreshed every two hours, and it does something most signal pages refuse to do: it grades itself. On 25 November it reported roughly 49% follow-through on its tracked reads across the 2-hour and 4-hour windows (over 1,100 tracked outcomes), which is a polite way of saying its short-term reads are context, not an edge. The Fear & Greed layer read **13 — Extreme Fear** that morning, and the page's own airdrop-specific interpretation is the useful part: in extreme fear, build a watchlist and research calmly instead of rushing claim links; in high greed, expect fake claim pages and rushed approvals. Sentiment never tells you a project is good. It tells you which mistake you are most likely to make today.
+**Active vs ended — do not join the wrong season**
 
-## Question 3: What are the risks? The AI Risk Checker, honestly described
+| Campaign | Status |
+|---|---|
+| Earn Points · Prove Your Portfolio S2 ($100,000 / 20,000 Gem pool) | **Active** |
+| Volume League S2 ($550,000 advertised pool) · Original Prove Your Portfolio · Binance Wallet Booster (86.29K KYC-verified participants) | **Ended / Completed** |
+| Public sale | **Closed**; claim portal planned before TGE, still pending |
 
-The last gate before any wallet action is the [AI Airdrop Risk Checker](https://airdropbuzz.com/tools/ai-airdrop-risk-checker/). Its workflow is simple: you paste an airdrop or project link and receive an AI-generated risk snapshot covering domains, wallet risks, reward claims, documentation, socials and task clarity. The page says the scanner looks for risky domains, suspicious reward claims, wallet-action warnings, unclear task costs and missing official-source signals, and it walks you through a four-step order: verify official links, check wallet and signature risk, compare task cost against the reward signal, and review recent updates before acting.
+**Per-area assessment** (the guide's own scoring, /10): Reward Confirmation **Strong** · Product Proof **9.5** · Campaign Strength **9** · Cost Control **6.5** (tracks reward larger real capital) · Token Transparency **9** (TGE timing, ratio open) · Safety **7.5** (non-custodial; fake-$ALLOX warnings) · **Overall 8.8 → 88/100** — held below 90 by vesting, TGE timing and capital requirements.
 
-Two honest limitations, both stated by the site itself. First, **you need a registered account to run a scan** — anonymous visitors cannot scan URLs or view scan history; registered users currently get three free scans per day with a private history. So this is a tool you sign up for before you need it, not one you can test anonymously in an emergency. Second, its FAQ is blunt: the checker **cannot guarantee that anything is safe**, cannot guarantee a token, an airdrop or a profit. It is a heuristic first pass.
+**Three misreadings, corrected.** (1) "363,298 eligible users" (AlloX-reported) does not mean a claim is open today — sale closed, claim portal pending. (2) "5% TGE unlock" is 5% *of the community tranche*, not a promise about your personal day-one unlock. (3) "1 Gem = $5" is a launch reference value for computing an allocation, not withdrawable cash. A fourth trap, flagged by the guide itself: an older AlloX milestone page still calls the sale active while the sale page's own panel says closed — conflicting pages are a reason to slow down, not evidence of an open claim. Verdict: a well-documented pre-TGE campaign built for real capital on BNB Chain, Base and Ethereum. Where $100 is the whole portfolio, admire it from the watchlist.
 
-Used correctly, that is still valuable — not as a verdict, but as a forced pause. The page's safety rules are the part I would keep even without the tool: use a fresh wallet for experimental campaigns, never share a seed phrase or private key (no legitimate airdrop needs one), cross-check domains against official documentation, and treat unlimited approvals, blind signatures and bridge deposits as the red flags they are. A checker that makes you stop and read for sixty seconds has done most of its job before the result even loads.
+## The shortlist, compared
 
-## My shortlist, with the reasoning shown
+All rows are from each project's own AirdropBuzz guide, checked 25 November 2026; "reward status" is the guide's own label.
 
-Applying all three questions to the homepage's daily shortlist on 25 November 2026 (scores are AirdropBuzz's editorial Potential Scores, not safety ratings):
+| Project | Score | Cost to participate | Deadline | Reward status (guide's label) | Verified | Verdict |
+|---|---|---|---|---|---|---|
+| AlloX | 88 | Real capital: $100 portfolio = 5,000 pts | None recorded (TGE Q4 2026, TBA) | Points program; token rewards unconfirmed* | 20 Nov | **NO-GO** on a small budget |
+| NEAR (NEAR@3.33) | 88 | Was task/capital-dependent; farming over | None; allocations live | "Potential" — allocations live for eligible users | 29 Oct ⚠ | **CHECK, don't farm** |
+| Amadeus | 86 | Free route exists; optional trading = fees/loss risk | None recorded (S1 closed 31 Oct) | Points program; token rewards unconfirmed | 20 Nov | **GO — free route only** |
+| TastyCo | 86 | Profile + EVM wallet; platform quests; brand rounds paid | None recorded | Speculative watch | 20 Nov | **WATCH** — pre-TGE points, not a token promise |
+| Startale | 84 | Bridging/vault activity — capital required | **25 Nov (today)** | Points (up to 200 STAR); conversion unconfirmed | 10 Nov ⚠ | **NO-GO** — expiring + stale is a bad shape to chase |
+| Denshin | 64 | Quests on Base, Soneium, Sonic; gas applies | **30 Nov, 20:59 UTC** | Speculative watch; 100 USDT season pool per guide | 6 Nov ⚠ | **WATCH** — five days left; re-read same-day |
+| Catalyst | 60 | Free — email waitlist | None recorded | Speculative watch | 24 Nov ✓ | **WATCH** — cheapest seat; a reported $30M seed is context, not a reward |
+| Ryfinite (Qern) | 58 | Passport + wallets; funds/gas for tasks | **3 Dec, 12:51 UTC** | Points program; token rewards unconfirmed | 5 Nov ⚠ | **NO-GO for now** — lowest score, paid tasks, oldest verification |
 
-- **Amadeus — 86/100 — conditional GO, free route only.** Verified recently (20 Nov), free community tasks and a 25-point daily check-in are live. No-go on the optional trading quests: unconfirmed token rewards do not justify fees and manufactured volume.
-- **FLOP Network — 81/100 — GO (testnet).** Free start, testnet tasks (agent, miner and validator routes per its guide), and its update note flags conflicting draft allocations — so track it, but trust no token numbers yet.
-- **Catalyst — 60/100 — WATCH.** A free waitlist costs an email, not capital. The 25 November update corrected its official X account and confirmed that no token, points allocation or claim is verified. Low score, low cost, low expectations.
-- **AlloX — 88/100 — NO-GO on my budget.** The highest score on the page, and the clearest illustration that score ≠ suitability. Its active "Prove Your Portfolio" Season 2 requires a **$100 minimum portfolio**; the public sale is closed and the claim portal is pending, with no established TGE or claim date. A great project you cannot afford to farm correctly is still a no.
-- **Startale — 84/100 — NO-GO.** Its missions ended 25 November, it requires capital, and its guide was last verified on 10 November — stale by this workflow's standards. Chasing an expiring, unverified listing is how the drainer playbook finds you.
-- **Denshin — 64/100 — WATCH.** Free start and a 30 November end date; worth a look only if the guide checks out on a same-day re-read.
+\* AlloX proves why you read past the label: its own tokenomics confirm conversion while the generic label says "unconfirmed." Pattern: the two 88s produced one no and one "check eligibility" — decided by cost, phase and verification date, not score.
 
-Notice what the workflow did: the two highest scores produced one conditional yes and one firm no, and the deciding factors were cost, verification date and reward certainty — not the score.
+## The five-gate decision checklist
+
+Score each gate 0, 1 or 2:
+
+| Gate | 2 points | 1 point | 0 points |
+|---|---|---|---|
+| 1. Reward reality | Conversion/allocation published by the project | Points program, conversion unconfirmed | "Rewards soon," no project source |
+| 2. True cost | Free route exists and is the real route | Free route exists, rewarded route costs | Requires capital, deposits or paid tasks |
+| 3. Freshness | Verified within 7 days | Within 30 days | Older, or rules changed since |
+| 4. Phase | Open, time to act calmly | Ending within a week | Ended, claim-pending, eligibility-check stage |
+| 5. Safety surface | Links cross-check, no warnings | Minor flags (no docs link, check warnings) | Unlock fees, new claim sites, seed-phrase requests — stop |
+
+**Bands:** 8–10 proceed, free route first · 5–7 watchlist · 0–4 walk away. Examples: Amadeus **7** (1, 2, 2, 1, 1) — free route only. AlloX **6** (2, 0, 2, 1, 1) — a good project in the watch band purely on cost. Ryfinite **3** — walk away until re-verified.
+
+## Question 2: What changed?
+
+A guide is a snapshot; the [Airdrop Updates](https://airdropbuzz.com/airdrop-updates) log (144 updated guides) records date, change and reasoning per revision. Recent entries: **AllScale** (25 Nov) gained TRON support and a 48-hour passkey hold, score held at 62, no claim confirmed; **Kaisar** (24 Nov) rescored 54 → 64 post-beta, conversion still unverified; **My Age** (24 Nov) distribution moved to 18 December; **Teneo Season 4** (23 Nov) marked closed to new entry — the change that silently converts a weekend of farming into wasted effort.
+
+Market context is the second half. [Market Pulse](https://airdropbuzz.com/crypto-market-pulse) (Binance data, refreshed every two hours) grades its own reads: on 25 November, **49% follow-through** across its 2-hour (1,156 tracked), 4-hour (1,276) and 12-hour (1,460) windows — context, not an edge. Fear & Greed read **13 — Extreme Fear**; its airdrop-specific reading is the useful part: in extreme fear, research calmly; in high greed, expect fake claim pages. Supporting tools: the [Gas Fee Tracker](https://airdropbuzz.com/tools/gas-fee-tracker/) (live claim/mint/bridge costs on six chains, every 60 seconds — a simple Ethereum transaction ≈$0.002 on 25 November).
+
+## Question 3: What are the risks? The four-layer safety stack
+
+The site runs four safety layers, each answering a different question:
+
+1. **"What do the signals on this link look like?" — [AI Airdrop Risk Checker](https://airdropbuzz.com/tools/ai-airdrop-risk-checker/).** An AI snapshot covering domains, wallet risks, reward claims, documentation, socials and task clarity. Two limits, stated by the site: registered users only (three free scans/day, private history; anonymous visitors cannot scan), and its FAQ says it **cannot guarantee safety, a token, an airdrop or a profit**.
+2. **"Does this URL fail the basics?" — [Airdrop Risk Scanner (MVP)](https://airdropbuzz.com/tools/airdrop-risk-scanner).** A free heuristic pass — HTTPS, page content, wallet-secret requests, key pages, social links, marketing language — with the caveat that domain age is *not* measured and sophisticated scams can pass. Note: here a higher score means *more* detected risk — the opposite of the Potential Score.
+3. **"What has already been scanned?" — [AI Risk Reports](https://airdropbuzz.com/tools/ai-airdrop-risk-reports/).** A public archive (31 recent reports): app.allox.ai, scanned 24 November, Medium at 35/100 risk; airdropbuzz.com scanning *itself* on 16 November, Low at 26/100 — a site publishing its own mediocre score is practising what it preaches. Older reports: "Historical — not reassessed."
+4. **"Has someone documented a problem?" — [Scam Hall of Fame](https://airdropbuzz.com/scam-hall-of-fame) + [Stay Safe](https://airdropbuzz.com/stay-safe).** The Hall lists **10 warnings, 0 confirmed findings, 0 resolved** (latest review 6 November); a warning is not proof of fraud, nor is an unlisted project certified safe. Stay Safe's pre-flight check: verify the exact domain; read the reward conditions; understand what you sign (off-chain signatures can grant permissions); limit exposure with a separate activity wallet. Its pattern library names the traps by script: the secret request ("verify your recovery phrase"), the payment trap ("send crypto to unlock more"), the hidden permission ("just sign, it is free").
+
+The stack's value is not verdicts — it is a forced pause at four depths. A checker that makes you read for sixty seconds has done most of its job before the result loads.
+
+## What the scores don't tell you
+
+Independent criticism is explicitly welcome in this campaign, so here is mine, aimed at the number this article revolves around. **The Potential Score has no public component breakdown on the [scoreboard](https://airdropbuzz.com/airdrop-opportunity-scoreboard):** every listing repeats that the score "is the saved rating, not a calculated payout probability" and that "a public component-level rationale is not recorded." The AlloX guide *does* publish per-area scores (above); most listings ask you to trust an editor, not audit a formula. **Scores go stale faster than campaigns:** NEAR wears 88/100 on a guide verified 29 October — flagged "recheck soon" — while its campaign has moved into allocations; Kaisar's score moved only when an editor revised it. The verification date is part of the score (scoreboard average: 68/100 across 117 campaigns). **The site benefits when you click:** guides disclose referral/affiliate links; that does not invalidate the research, but "listed" and "right for your budget" are different claims, and only the first is being made. **And no tool here measures the biggest risk: you** — tired, rushed, or protecting a points balance you have sunk hours into. That risk is mine to manage, not theirs to score.
+
+## Risk table
+
+| Risk | What it means | Safer way |
+|---|---|---|
+| Fake claim site | Look-alike domain harvests signatures for a campaign "ending soon" | Arrive via the guide's recorded source links; cross-check the domain |
+| Unlimited approval / blind signature | One "free" signature grants spending rights beyond the claim | Read the request; separate activity wallet, limited funds; revoke old approvals |
+| Points that never convert | Weeks of tasks priced in a unit with no published conversion (Amadeus, Ryfinite) | Free routes only until conversion is published; budget points at zero |
+| Capital lock-in as "farming" | Portfolio/volume tracks (AlloX) reward money that can fall in value | Count capital as invested, not parked |
+| Unlock-fee / new-claim-site messages | A stranger demands an "unlock" payment or sends a fresh claim link | No legitimate airdrop charges an unlock fee; report it via the Scam Hall of Fame |
+
+## FAQ
+
+**Is the Potential Score a safety rating?** No — it compares *editorial opportunity*, "not safety or guaranteed rewards": a saved rating, not a payout probability. Safety is the stack's job.
+
+**Does a high score mean the reward is confirmed?** No. Both 88s prove it: AlloX's label reads "token rewards unconfirmed" while its own tokenomics confirm conversion; NEAR's reads "Potential." Read the reward-context field, then the tokenomics.
+
+**Do AlloX Points and Gems convert into $ALLOX?** Points: yes, every Point converts at launch — the *rate* is TBA. Gems: 1 Gem = $5 worth of $ALLOX at the launch reference value — an allocation formula, not a cash promise.
+
+**Will every $ALLOX token unlock at TGE?** No. 35% of the 1B supply is the community tranche; 5% *of that tranche* (17.5M tokens, 1.75% of supply) unlocks at TGE; vesting applies.
+
+**Can I still join AlloX's Volume League or Binance campaign?** No — both ended. The active tracks are Earn Points and Prove Your Portfolio Season 2.
+
+**A project I follow is in the Scam Hall of Fame. Proven fraud?** No — the Hall separates warnings from confirmed findings (currently 10 warnings, 0 confirmed); a warning is a reason to investigate, not a finding of fraud.
+
+**How are Creator Campaign winners selected?** Per the campaign FAQ: judged on quality, engagement, originality, reach, accuracy and creativity; fake engagement can disqualify; one creator holds one winning position.
+
+**Entry fee? Multiple entries?** No fee; up to five per creator.
+
 
 ## The workflow, in one paragraph
 
-Read the guide for cost, deadline and reward context — and believe the "unconfirmed" labels. Re-check the Updates log before every session, because the campaign you researched last week may have closed, moved or been rescored. Glance at Market Pulse to know which emotional mistake the market is inviting today. Run the link through the Risk Checker, use a fresh wallet, and never let a points balance talk you into spending real money to protect it. That is the whole system. It will make you slower than the feed. It is supposed to.
+Read the guide for cost, deadline and reward context — and believe "unconfirmed" labels until the project's own tokenomics say otherwise. Run the five gates; let cost or freshness veto any score. Re-check Updates before every session. Glance at Market Pulse for today's likely mistake, check gas before paying, run the link through the safety stack, use a fresh wallet, and never let a points balance talk you into spending real money to protect it. Slower than the feed — by design.
 
-*Disclosure, repeated: this article is my entry to the AirdropBuzz Creator Campaign. It is not a partnership, not financial advice, and no airdrop mentioned here — including any I marked GO — is promised or guaranteed to reward anyone. Do your own research, and re-check every date and score above on airdropbuzz.com before acting, because they will have changed.*
+**My question to you:** which of the five gates kills the most campaigns on *your* watchlist — reward reality, cost, freshness, phase, or safety? If a campaign you farm lands in the walk-away band, tell me what you did next.
 
-**Sources (all accessed 25 November 2026):** [AirdropBuzz homepage & daily shortlist](https://airdropbuzz.com/) · [Amadeus guide](https://airdropbuzz.com/airdrop/amadeus-protocol-airdrop) · [AlloX guide](https://airdropbuzz.com/airdrop/allox-airdrop-guide) · [Airdrop Updates](https://airdropbuzz.com/airdrop-updates) · [Market Pulse](https://airdropbuzz.com/crypto-market-pulse) · [AI Airdrop Risk Checker](https://airdropbuzz.com/tools/ai-airdrop-risk-checker/) · [Creator Campaign rules](https://airdropbuzz.com/creator-campaign)
+*Disclosure, repeated: this is my Creator Campaign entry — not a partnership, not financial advice, and no airdrop here, including any marked GO, is guaranteed to reward anyone. Re-check every date and score before acting.*
+
+**Sources (accessed 25 November 2026):** [Scoreboard](https://airdropbuzz.com/airdrop-opportunity-scoreboard) · [AlloX](https://airdropbuzz.com/airdrop/allox-airdrop-guide) · [Amadeus](https://airdropbuzz.com/airdrop/amadeus-protocol-airdrop) · [NEAR](https://airdropbuzz.com/airdrop/near-protocol-airdrop) · [TastyCo](https://airdropbuzz.com/airdrop/tastyco-airdrop-tasty-points-guide) · [Denshin](https://airdropbuzz.com/airdrop/denshin-airdrop-genesis-guide) · [Catalyst](https://airdropbuzz.com/airdrop/catalyst-join-waitlist) · [Ryfinite](https://airdropbuzz.com/airdrop/ryfinite-qern-airdrop-guide) · [Updates](https://airdropbuzz.com/airdrop-updates) · [Market Pulse](https://airdropbuzz.com/crypto-market-pulse) · [Risk Checker](https://airdropbuzz.com/tools/ai-airdrop-risk-checker/) · [Risk Scanner](https://airdropbuzz.com/tools/airdrop-risk-scanner) · [Risk Reports](https://airdropbuzz.com/tools/ai-airdrop-risk-reports/) · [Scam Hall](https://airdropbuzz.com/scam-hall-of-fame) · [Stay Safe](https://airdropbuzz.com/stay-safe) · [Gas Tracker](https://airdropbuzz.com/tools/gas-fee-tracker/) · [Campaign](https://airdropbuzz.com/creator-campaign) · [ama.one](https://www.ama.one) · [tastyco.io](https://tastyco.io) · [near.com](https://near.com)
